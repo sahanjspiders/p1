@@ -1,0 +1,30 @@
+
+
+.Home2{
+   display: flex;
+    padding: 15px;
+    /* padding-left: 100px; */
+    justify-content: space-evenly;
+}
+
+.Home2C1{
+    padding: 20px;
+}
+
+.foodmenu{
+    width: 250px;
+border-width: 2px;
+background-color: black;
+height: 1px;
+}
+
+
+
+.food-area nav .active:after {
+    content: "";
+    width: 80%;
+    margin: 10px auto;
+    height: 1px;
+    background-color: #160205;
+    display: block;
+}

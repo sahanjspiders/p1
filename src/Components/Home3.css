@@ -1,0 +1,57 @@
+.Home3{
+    padding: 60px;
+}
+
+    .C1{
+        background: #fff;
+      }
+
+    .C1 {
+        transition: box-shadow .3s;
+        width: 500px;
+        height: 639px;/*  / after changing img change adjest the height  /  */
+        margin: 20px;
+        /* padding: 10px; */
+        border-radius:10px;
+        border: 1px solid #ccc;
+        background: #fff;
+
+      }
+
+    .C1:hover {
+        box-shadow: 5px 0 29px rgba(50,50,33,.9); 
+      }
+
+
+.inputline{
+width: 400px;
+border-width: 2px;
+background-color: black;
+height: 1px;
+
+}
+
+.card-img-top{
+    border-radius: 25px;
+    padding: 10px;
+}
+
+/* //// */
+.card-img-top{
+  transition: 1s ease;
+  }
+  
+  .card-img-top:hover{
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  transition: 1s ease;
+  }
+/* /// */
+
+
+.Home3Container{
+    
+display: flex;
+
+}

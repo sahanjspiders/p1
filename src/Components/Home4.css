@@ -1,0 +1,23 @@
+.Home4{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    text-decoration: none;
+    padding: 50px;
+}
+
+
+.home4last{
+    /* background-color: black; */
+    padding-bottom: 10px;
+    padding-left: 900px;
+    /* padding-right: 900px; */
+}
+
+.Copyright{
+  padding-right: 1000px;   
+}
+
+.homeend{
+    background-color: black;
+}
